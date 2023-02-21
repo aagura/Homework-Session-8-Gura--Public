@@ -1,0 +1,15 @@
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\bin\Debug\net6.0\HT1.exe
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\bin\Debug\net6.0\HT1.deps.json
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\bin\Debug\net6.0\HT1.runtimeconfig.json
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\bin\Debug\net6.0\HT1.dll
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\bin\Debug\net6.0\HT1.pdb
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\obj\Debug\net6.0\HT1.csproj.AssemblyReference.cache
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\obj\Debug\net6.0\HT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\obj\Debug\net6.0\HT1.AssemblyInfoInputs.cache
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\obj\Debug\net6.0\HT1.AssemblyInfo.cs
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\obj\Debug\net6.0\HT1.csproj.CoreCompileInputs.cache
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\obj\Debug\net6.0\HT1.dll
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\obj\Debug\net6.0\refint\HT1.dll
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\obj\Debug\net6.0\HT1.pdb
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\obj\Debug\net6.0\HT1.genruntimeconfig.cache
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT1\obj\Debug\net6.0\ref\HT1.dll

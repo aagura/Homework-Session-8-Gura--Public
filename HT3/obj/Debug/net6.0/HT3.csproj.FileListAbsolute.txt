@@ -1,0 +1,15 @@
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\obj\Debug\net6.0\HT3.csproj.AssemblyReference.cache
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\obj\Debug\net6.0\HT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\obj\Debug\net6.0\HT3.AssemblyInfoInputs.cache
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\obj\Debug\net6.0\HT3.AssemblyInfo.cs
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\obj\Debug\net6.0\HT3.csproj.CoreCompileInputs.cache
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\bin\Debug\net6.0\HT3.exe
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\bin\Debug\net6.0\HT3.deps.json
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\bin\Debug\net6.0\HT3.runtimeconfig.json
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\bin\Debug\net6.0\HT3.dll
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\bin\Debug\net6.0\HT3.pdb
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\obj\Debug\net6.0\HT3.dll
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\obj\Debug\net6.0\refint\HT3.dll
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\obj\Debug\net6.0\HT3.pdb
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\obj\Debug\net6.0\HT3.genruntimeconfig.cache
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT3\obj\Debug\net6.0\ref\HT3.dll

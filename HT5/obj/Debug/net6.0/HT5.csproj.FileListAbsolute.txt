@@ -1,0 +1,15 @@
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\obj\Debug\net6.0\HT5.csproj.AssemblyReference.cache
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\obj\Debug\net6.0\HT5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\obj\Debug\net6.0\HT5.AssemblyInfoInputs.cache
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\obj\Debug\net6.0\HT5.AssemblyInfo.cs
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\obj\Debug\net6.0\HT5.csproj.CoreCompileInputs.cache
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\bin\Debug\net6.0\HT5.exe
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\bin\Debug\net6.0\HT5.deps.json
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\bin\Debug\net6.0\HT5.runtimeconfig.json
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\bin\Debug\net6.0\HT5.dll
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\bin\Debug\net6.0\HT5.pdb
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\obj\Debug\net6.0\HT5.dll
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\obj\Debug\net6.0\refint\HT5.dll
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\obj\Debug\net6.0\HT5.pdb
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\obj\Debug\net6.0\HT5.genruntimeconfig.cache
+C:\Users\aagur\OneDrive\Документы\Семинары\HT S8\HT5\obj\Debug\net6.0\ref\HT5.dll
